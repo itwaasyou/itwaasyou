@@ -1,7 +1,6 @@
-<p align="center"><a href="https://i-kundankumar.github.io"> <img width="70%" alt="Hello, I'm Kundan. I do open source!" src="./assets/kk-readme-header.png" /></a></p>
 
-<br />
-![Kundan Typing](https://readme-stats-github.pages.dev/api/typing?lines=Hello!%20I%27m%20Kunal;I%20break%20things%20to%20learn%20%3A&loop=true&align=center)
+![Kundan Typing](https://readme-stats-github.pages.dev/api/typing?lines=Hello!%20I%27m%20Kundan;I%20break%20things%20to%20learn%20%3A&loop=true&align=center)
+
 I'm a self-taught passionate developer from India 🇮🇳
 
 **About me**
