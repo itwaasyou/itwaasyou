@@ -1,5 +1,5 @@
 
-![Kundan Typing](<https://readme-stats-github.pages.dev/api/typing?lines=Hello!%20I%27m%20Kundan;I%20break%20things%20to%20learn%20:)&loop=true&align=center&particleColor=000000&color=ffffff&bg=ffffff>)
+![Kundan Typing](<https://readme-stats-github.pages.dev/api/typing?lines=Hello!%20I%27m%20Kundan;I%20break%20things%20to%20learn%20:)&theme=shadow&color=%232079fe&particleColor=%23000000&background=%232079fe>)
 
 I'm a self-taught passionate developer from India 🇮🇳
 
