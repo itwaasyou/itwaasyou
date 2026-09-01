@@ -6,8 +6,6 @@
 ![itwaasyou's GitHub Stats](https://readme-stats-github.pages.dev/api?username=itwaasyou&theme=dark&v=2)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs/?username=itwaasyou&theme=dark&v=2)
 
-![snake gif](https://github.com/itwaasyou/itwaasyou/blob/output/github-snake-dark.svg)
-
 #### Top Repositories
 [![Repository](https://readme-stats-github.pages.dev/api/repo/?username=itwaasyou&repo=Medisense&theme=dark&v=2)](https://github.com/itwaasyou/Medisense)
 [![Repository](https://readme-stats-github.pages.dev/api/repo/?username=itwaasyou&repo=SmartInvitationScanner&theme=dark&v=2)](https://github.com/itwaasyou/SmartInvitationScanner)
